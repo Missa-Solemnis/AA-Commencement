@@ -1,3 +1,12 @@
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+.content-wrap {
+  padding-bottom: 200px;    /* Footer height */
+}
+
 .navbar {
   background-color: #333;
   overflow: hidden;
@@ -166,7 +175,7 @@ body {
 @media (max-width: 880px) {
     .footer {
       width: 75%;  
-      height: 250px;
+      height: 200px;
       margin: 0;
     }
 
