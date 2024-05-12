@@ -120,16 +120,16 @@
     height: 3px;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 8px;
-    padding-bottom: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 .heading-bar {
     background-color: #ff6700;
     width: 25px;
     height: 3px;
-    padding-top: 8px;
-    padding-bottom: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 .top-banner {
