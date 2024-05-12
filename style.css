@@ -166,9 +166,9 @@ body {
   .bottom-logo {
         width: 200px;
         display: block;
-        margin-left: 15px;
-        margin-bottom: 13px;
-        margin-top: -10px;
+        margin-left: 16px;
+        margin-bottom: 16px;
+        margin-top: 16px;
     }
 }
 
@@ -185,8 +185,8 @@ body {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 5px;
-        margin-top: -10px;
+        margin-bottom: 16px;
+        margin-top: 16px;
     }
 
     .footer-content a {
