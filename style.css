@@ -4,7 +4,7 @@
 }
 
 .content-wrap {
-  padding-bottom: 200px;    /* Footer height */
+  padding-bottom: 150px;    /* Footer height */
 }
 
 .navbar {
@@ -120,6 +120,16 @@
     height: 3px;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.heading-bar {
+    background-color: #ff6700;
+    width: 25px;
+    height: 3px;
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
 
 .top-banner {
