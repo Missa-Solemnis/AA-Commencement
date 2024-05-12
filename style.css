@@ -107,6 +107,14 @@ body {
   text-align: center;
 }
 
+.bold {
+  font-weight: bold;
+}
+
+.roman {
+  font-weight: regular;
+}
+
 .bottom-logo {
   width: 10%;
   min-width: 40px;
