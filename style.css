@@ -76,10 +76,6 @@
   position: relative;
   overflow: hidden;
   margin: 16px;
-  display: flex;
-  flex-direction: row;
-  justify-content: left;
-  flex-wrap: wrap;
 }
 
 .title a {
@@ -87,8 +83,12 @@
   color: #000;
 }
 
+.header {
+  display: flex;
+}
+
 .header-logo {
-        width: 100px;
+        width: 150px;
   display: block;
     }
 
