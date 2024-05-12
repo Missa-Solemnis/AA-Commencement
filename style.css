@@ -103,6 +103,14 @@
     height: 5px;
 }
 
+.divider-bar {
+    background-color: #ff6700;
+    width: 25px;
+    height: 3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 body {
   margin: 0;
 }
