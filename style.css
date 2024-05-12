@@ -72,12 +72,14 @@
 .maintext {
   font-family: 'Jost', sans-serif;
   position: relative;
+  margin: 0px;
 }
 
 .heading {
   font-family: 'EB Garamond', serif;
   font-weight: bold;
   position: relative;
+  margin: 0px;
 }
 
 .title {
