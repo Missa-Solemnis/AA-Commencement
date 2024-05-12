@@ -77,6 +77,9 @@
   overflow: hidden;
   margin: 16px;
   display: flex;
+  flex-direction: row;
+  justify-content: left;
+  flex-wrap: wrap;
 }
 
 .title a {
@@ -86,6 +89,7 @@
 
 .header-logo {
         width: 100px;
+  display: block;
     }
 
 .accent-bar {
