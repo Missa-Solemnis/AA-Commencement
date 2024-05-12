@@ -84,6 +84,12 @@
   color: #000;
 }
 
+.header-logo {
+        width: 100px;
+        display: block;
+        margin: 0;
+    }
+
 .accent-bar {
     background-color: #ff6700;
     width: 100%;
