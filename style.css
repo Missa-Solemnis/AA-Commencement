@@ -104,8 +104,9 @@
 }
 
 .header-logo {
-        width: 150px;
+  width: 150px;
   display: block;
+  margin-top: 16px;
     }
 
 .accent-bar {
